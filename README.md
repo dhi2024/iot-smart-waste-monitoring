@@ -120,3 +120,12 @@ Potential future development includes:
 This project is currently being developed as part of a final-year Computing project.
 
 The GitHub repository contains a portfolio version of the technical implementation and does not include the full academic submission.
+## Project Screenshots
+
+### Wokwi Simulation
+
+![Wokwi Smart Bin Full Status](screenshots/wokwi-smart-bin-full-status.png)
+
+### ThingSpeak Dashboard
+
+![ThingSpeak Smart Bin Dashboard](screenshots/thingspeak-smart-bin-dashboard.png)
